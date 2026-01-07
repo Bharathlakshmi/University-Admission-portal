@@ -1,0 +1,518 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KANINI\\University Admission Portal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\service\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\service\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\dtos\\staffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\dtos\\staffdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\controllers\\applicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\service\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\service\\applicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\repository\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\repository\\applicationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\repository\\staffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\repository\\staffrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\models\\application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\tests\\applicationcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\tests\\applicationcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\middlewares\\globalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\middlewares\\globalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\tests\\applicationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\tests\\applicationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\email-notification\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\email-notification\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\data\\univcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\data\\univcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\tests\\courseservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\tests\\courseservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\tests\\coursecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\tests\\coursecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\dtos\\applicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\dtos\\applicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\controllers\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|d:\\kanini\\university admission portal\\university admission portal\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94FFADCF-4199-4115-B97B-21884B74C3EB}|University Admission Portal\\University Admission Portal.csproj|solutionrelative:university admission portal\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "University Admission Portal\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvzMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T12:21:18.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaffDTO.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\DTOs\\StaffDTO.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\DTOs\\StaffDTO.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\DTOs\\StaffDTO.cs",
+              "RelativeToolTip": "University Admission Portal\\DTOs\\StaffDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T16:43:33.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "loginDTO.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\DTOs\\loginDTO.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\DTOs\\loginDTO.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\DTOs\\loginDTO.cs",
+              "RelativeToolTip": "University Admission Portal\\DTOs\\loginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T04:48:30.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Models\\User.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\Models\\User.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Models\\User.cs",
+              "RelativeToolTip": "University Admission Portal\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:37:40.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Program.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\Program.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Program.cs",
+              "RelativeToolTip": "University Admission Portal\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAFMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T07:40:15.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\Controllers\\TokenController.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "University Admission Portal\\Controllers\\TokenController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T12:04:53.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationController.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Controllers\\ApplicationController.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\Controllers\\ApplicationController.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Controllers\\ApplicationController.cs",
+              "RelativeToolTip": "University Admission Portal\\Controllers\\ApplicationController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:20:24.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationService.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Service\\ApplicationService.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\Service\\ApplicationService.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Service\\ApplicationService.cs",
+              "RelativeToolTip": "University Admission Portal\\Service\\ApplicationService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwP8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:29:52.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StaffService.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Service\\StaffService.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\Service\\StaffService.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Service\\StaffService.cs",
+              "RelativeToolTip": "University Admission Portal\\Service\\StaffService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwFQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:15:32.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\appsettings.json",
+              "RelativeDocumentMoniker": "University Admission Portal\\appsettings.json",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\appsettings.json",
+              "RelativeToolTip": "University Admission Portal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-02T05:03:10.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\DTOs\\UserDTO.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "University Admission Portal\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T05:22:17.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Application.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Models\\Application.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\Models\\Application.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Models\\Application.cs",
+              "RelativeToolTip": "University Admission Portal\\Models\\Application.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:48:54.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StaffRepository.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Repository\\StaffRepository.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\Repository\\StaffRepository.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Repository\\StaffRepository.cs",
+              "RelativeToolTip": "University Admission Portal\\Repository\\StaffRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:52:17.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationRepository.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Repository\\ApplicationRepository.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\Repository\\ApplicationRepository.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Repository\\ApplicationRepository.cs",
+              "RelativeToolTip": "University Admission Portal\\Repository\\ApplicationRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwEMAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T04:29:03.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "University Admission Portal\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T07:07:16.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\Models\\Course.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Models\\Course.cs",
+              "RelativeToolTip": "University Admission Portal\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:48:45.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\Service\\StudentService.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Service\\StudentService.cs",
+              "RelativeToolTip": "University Admission Portal\\Service\\StudentService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:27:54.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CourseServiceTests.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Tests\\CourseServiceTests.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\Tests\\CourseServiceTests.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Tests\\CourseServiceTests.cs",
+              "RelativeToolTip": "University Admission Portal\\Tests\\CourseServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:37:43.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\Models\\Student.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Models\\Student.cs",
+              "RelativeToolTip": "University Admission Portal\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:57:00.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UnivContext.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Data\\UnivContext.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\Data\\UnivContext.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Data\\UnivContext.cs",
+              "RelativeToolTip": "University Admission Portal\\Data\\UnivContext.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T12:13:16.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GlobalException.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Middlewares\\GlobalException.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\Middlewares\\GlobalException.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Middlewares\\GlobalException.cs",
+              "RelativeToolTip": "University Admission Portal\\Middlewares\\GlobalException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T05:41:55.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationControllerTests.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Tests\\ApplicationControllerTests.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\Tests\\ApplicationControllerTests.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Tests\\ApplicationControllerTests.cs",
+              "RelativeToolTip": "University Admission Portal\\Tests\\ApplicationControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:35:27.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Email-Notification\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\Email-Notification\\EmailSettings.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Email-Notification\\EmailSettings.cs",
+              "RelativeToolTip": "University Admission Portal\\Email-Notification\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T14:50:14.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationServiceTests.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Tests\\ApplicationServiceTests.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\Tests\\ApplicationServiceTests.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Tests\\ApplicationServiceTests.cs",
+              "RelativeToolTip": "University Admission Portal\\Tests\\ApplicationServiceTests.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:49:41.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CourseControllerTests.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Tests\\CourseControllerTests.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\Tests\\CourseControllerTests.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Tests\\CourseControllerTests.cs",
+              "RelativeToolTip": "University Admission Portal\\Tests\\CourseControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T05:49:34.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationDTO.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\DTOs\\ApplicationDTO.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\DTOs\\ApplicationDTO.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\DTOs\\ApplicationDTO.cs",
+              "RelativeToolTip": "University Admission Portal\\DTOs\\ApplicationDTO.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA5wDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:43:59.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Service\\CourseService.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\Service\\CourseService.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Service\\CourseService.cs",
+              "RelativeToolTip": "University Admission Portal\\Service\\CourseService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA8AAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T13:41:48.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\Service\\UserService.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Service\\UserService.cs",
+              "RelativeToolTip": "University Admission Portal\\Service\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T10:25:47.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "University Admission Portal\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:31:47.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StaffController.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Controllers\\StaffController.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\Controllers\\StaffController.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Controllers\\StaffController.cs",
+              "RelativeToolTip": "University Admission Portal\\Controllers\\StaffController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwF0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T15:18:54.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "University Admission Portal\\Repository\\StudentRepository.cs",
+              "ToolTip": "D:\\KANINI\\University Admission Portal\\University Admission Portal\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "University Admission Portal\\Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T10:33:46.958Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
